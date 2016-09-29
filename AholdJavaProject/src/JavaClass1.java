@@ -3,7 +3,7 @@ public class JavaClass1 {
 
 	public static void main(String[] args)
 	{
-		System.out.println("Hello World against UST20");
+		System.out.println("Hello World against UST21");
 	}
 
 }
