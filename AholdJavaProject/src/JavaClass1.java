@@ -5,6 +5,7 @@ public class JavaClass1 {
 	{
 		System.out.println("Hello World against UST21");
 		System.out.println("Hello World against UST22");
+		System.out.println("Hello World against UST23")
 	}
 
 }
