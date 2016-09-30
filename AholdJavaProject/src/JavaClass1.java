@@ -9,6 +9,7 @@ public class JavaClass1 {
 		System.out.println("Hello World against UST24");
 		System.out.println("Hello World against UST13");
 		System.out.println("Hello World against DEF5");
+		System.out.println("Fix for Defect AH36");
 	}
 
 }
