@@ -12,6 +12,7 @@ public class JavaClass1 {
 		System.out.println("Hello World against UST15");
 		System.out.println("Hello World against UST16");
 		System.out.println("Hello World againsttt UST16");
+		System.out.println("Hello World againsttt UST17");
 		System.out.println("Fix for Defect AH36 against mainspring");
 	}
 
