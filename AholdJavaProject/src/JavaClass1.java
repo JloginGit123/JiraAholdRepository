@@ -3,17 +3,11 @@ public class JavaClass1 {
 
 	public static void main(String[] args)
 	{
-		System.out.println("Hello World against UST21");
-		System.out.println("Hello World against UST22");
-		System.out.println("Hello World against defect8");
-		System.out.println("Hello World against UST24");
-		System.out.println("Hello World against UST13");
-		System.out.println("Hello World against DEF5");
-		System.out.println("Hello World against UST15");
-		System.out.println("Hello World against UST16");
-		System.out.println("Hello World againsttt UST16");
+		System.out.println("AHOLD");
+		System.out.println("DELHAIZE");
+		System.out.println("OFFER ENGINE");
 		System.out.println("Fix for DEF11 in US104"); 
-		System.out.println("hello world against task UST17 once again");
+		System.out.println("hello world against task UST21 once again");
 	}
 
 }
