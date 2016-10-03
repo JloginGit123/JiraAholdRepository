@@ -13,7 +13,7 @@ public class JavaClass1 {
 		System.out.println("Hello World against UST16");
 		System.out.println("Hello World againsttt UST16");
 		System.out.println("Fix for DEF11 in US104"); 
-		System.out.println("hello world against task UST17");
+		System.out.println("hello world against task UST17 once again");
 	}
 
 }
