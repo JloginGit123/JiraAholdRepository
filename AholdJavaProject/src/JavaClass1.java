@@ -8,7 +8,7 @@ public class JavaClass1 {
 		System.out.println("OFFER ENGINE");
 		System.out.println("Fix for DEF12 in US201"); 
 		System.out.println("hello world against task UST21 once again");
-		System.out.println("hello world against task ust26 again");
+		System.out.println("hello world against task ust28 again");
 	}
 
 }
